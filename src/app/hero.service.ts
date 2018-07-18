@@ -16,7 +16,6 @@ const httpOptions = {
 export class HeroService {
 
   private heroesUrl = 'api/heroes';  // URL to web api
-
   /**
    * Handle Http operation that failed.
    * Let the app continue.
